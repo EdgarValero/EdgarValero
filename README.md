@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/48185388/195230233-d6e9f176-44a8-4352-80f2-e7e4ee2b5a2d.png)
+![Header](https://user-images.githubusercontent.com/48185388/195231154-344ea8f4-02d5-4296-9b90-16bfd6e9d099.png)
 
 # Hi there👋, I'm Edgar Valero
 
