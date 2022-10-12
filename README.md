@@ -33,11 +33,6 @@ I am passionate about code, Software Engineer and Full Stack Developer with skil
 <p>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=EdgarValero">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=EdgarValero&show_icons=true"><p>
