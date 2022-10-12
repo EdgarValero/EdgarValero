@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/48185388/195230233-d6e9f176-44a8-4352-80f2-e7e4ee2b5a2d.png)
 
-# Hi there 👋, My name is Edgar Valero
+# Hi there👋, My name is Edgar Valero
 
 I am passionate about code, Software Engineer and Full Stack Developer with skills in Nodejs to make Restful APIs and GraphQL APIs. Domain of Vuejs, Reactjs and Angular for the Frontend. Management of relational and non-relational databases. I have knowledge in Typescript, Python, Docker and Docker Compose. I have experience as a technical leader under the SCRUM methodology.
 
