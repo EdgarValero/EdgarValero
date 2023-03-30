@@ -2,7 +2,7 @@
 
 # Hi there👋, I'm Edgar Valero
 
-I am passionate about code, Software Engineer and Full Stack Developer with skills in Nodejs to make Restful APIs and GraphQL APIs. Domain of Vuejs, Reactjs and Angular for the Frontend. Management of relational and non-relational databases. I have knowledge in Typescript, Python, Docker and Docker Compose. I have experience as a technical leader under the SCRUM methodology.
+I am passionate about code, Software Engineer and Full Stack Javascript Developer. I have skills to create APIs and Frontend applications. Management of relational and non-relational databases. I have knowledge in Typescript, Python, Docker, Docker Compose and infrastructure. I have experience as a technical leader in the area of health and education, under the agile SCRUM methodology.
 
 ## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Merge & Deploy</p>
