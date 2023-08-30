@@ -2,7 +2,7 @@
 
 # Hi there👋, I'm Edgar Valero
 
-I am passionate about code, Software Engineer and Full Stack Javascript Developer. I have skills to create APIs and Frontend applications. Management of relational and non-relational databases. I have knowledge in Typescript, Python, Docker, Docker Compose and infrastructure. I have experience as a technical leader in the area of health and education, under the agile SCRUM methodology.
+I am a Software Engineer and Full Stack Javascript Developer. I have experience as a technical leader in the health and education area, under the agile SCRUM methodology. I have skills to create APIs and Frontend applications. I have knowledge about relational and non-relational databases, infrastructure and interoperability between systems.
 
 ## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Merge & Deploy</p>
